@@ -4,5 +4,7 @@ numpy
 seaborn
 missingno
 scipy
-sklearn
+scikit-learn==0.24.1
 keras
+tensorflow==2.4.1
+xlrd==2.0.1
