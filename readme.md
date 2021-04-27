@@ -1,5 +1,9 @@
 # SPWLA Workshop on Machine Learning and Artificial Intelligence (12th - 13th May 2021)
 
+---
+Click on the buttons below to access this repo trhough Binder or Google Colab:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SPWLA-ORG/spwla2021_ml_workshop/HEAD)
+
 **Instructors:** Lalitha Venkataramanan (SLB), Chicheng Xu (Aramco), Andy McDonald (LR), Vikas Jain (SLB)
 
 
