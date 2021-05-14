@@ -6,12 +6,13 @@ Click on the buttons below to access this repo trhough Binder or Google Colab:
 **Instructors:** Lalitha Venkataramanan (SLB), Chicheng Xu (Aramco), [Andy McDonald (LR)](https://github.com/andymcdgeo), Vikas Jain (SLB)
 
 - [About the Course](#about-the-course)
-  * [Using the Notebooks](#using-the-notebooks)
-    + [Cloning the Repository](#cloning-the-repository)
-    + [Using Binder or Google Colab](#using-binder-or-google-colab)
-  * [About the Instructors](#about-the-instructors)
-  * [Volve Dataset](#volve-dataset)
-  * [Kansas Geological Society](#kansas-geological-society-(KGS))
+- [Using the Notebooks](#using-the-notebooks)
+  * [Cloning the Repository](#cloning-the-repository)
+  * [Using Binder or Google Colab](#using-binder-or-google-colab)
+- [About the Instructors](#about-the-instructors)
+- [Volve Dataset](#volve-dataset)
+- [Kansas Geological Survey (KGS)](#kansas-geological-survey--kgs-)
+
 
 ## About the Course
 
