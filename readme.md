@@ -11,6 +11,7 @@ Click on the buttons below to access this repo trhough Binder or Google Colab:
     + [Using Binder or Google Colab](#using-binder-or-google-colab)
   * [About the Instructors](#about-the-instructors)
   * [Volve Dataset](#volve-dataset)
+  * [Kansas Geological Society](#kansas-geological-society-(KGS))
 
 ## About the Course
 
@@ -62,4 +63,9 @@ The Volve Field is located some 200 km west of Stavanger in the Norwegian Sector
 Details for the Volve Field and the entire dataset can be found at: https://www.equinor.com/en/what-we-do/norwegian-continental-shelf-platforms/volve.html
 
 The full licence agreement can be found here: https://www.equinor.com/content/dam/statoil/documents/what-we-do/Equinor-HRS-Terms-and-conditions-for-licence-to-data-Volve.pdf
+
+
+## Kansas Geological Survey (KGS)
+Data released by the Kansas Geological Society is public domain and was covered in the Supervised Learning section by Chicheng.
+The data can be accessed here: http://www.kgs.ku.edu/PRS/Ozark/well_1_32.html
 
