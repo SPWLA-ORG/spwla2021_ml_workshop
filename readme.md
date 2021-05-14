@@ -70,3 +70,10 @@ The full licence agreement can be found here: https://www.equinor.com/content/da
 Data released by the Kansas Geological Society is public domain and was covered in the Supervised Learning section by Chicheng.
 The data can be accessed here: http://www.kgs.ku.edu/PRS/Ozark/well_1_32.html
 
+The well used for the analysis can be found in the `data` subfolder with the file `Supervised_Learning - WELLINGTON_1_32_LAS_SP_ADDED.las`
+
+To load LAS files into Python, you can use the LASIO library. A general intoduction to using LAS files in Python can be found at the following links: 
+
+https://andymcdonaldgeo.medium.com/loading-and-displaying-well-log-data-b9568efd1d8
+
+https://towardsdatascience.com/loading-multiple-well-log-las-files-using-python-39ac35de99dd
